@@ -1,0 +1,562 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(229, 237, 240);
+}
+.bertone {
+    display: inline-block;
+    margin: 200px;
+    width: 250px;
+    height: 200px;
+}
+.NCC {
+    display: inline-block;
+    max-width: 250px;
+    max-height: 200px;
+}
+
+#img1 {
+    padding-left: 100px;
+    padding-top: -10px;
+    height: 200px;
+    width: 250px;
+    margin: 0px;
+}
+#img2 {
+    height: 220px;
+    width: 280px;
+    margin: 0px;
+}
+#img5,#img4,#img6 {
+    height: 50px;
+    width: 50px;
+}
+#img3 {
+    height: 50px;
+    width: 30px;
+}
+.insta {
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    right: 500px;
+}
+.twitter {
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    right: 600px;
+}
+.in {
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    right: 700px;
+}
+.fb {
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    right: 800px;
+}
+#lib {
+    color: purple;
+    font-weight: bold;
+}
+.ontop {
+    position: relative;
+}
+.text {
+    color: rgb(72, 63, 63);
+    font-size: 170px;
+    position: absolute;
+    top: 1100px;
+    left: 290px;
+}
+.cycle {
+    position: absolute;
+    right: 0px;
+    top: 300px;
+    float: left;
+}
+#img7 {
+    height: 2300px;
+    width: 2700px;
+}
+.cycle2 {
+    position: absolute;
+    top: 3000px;
+}
+#img8 {
+    height: 2300px;
+    width: 2700px;
+}
+.text2 {
+    color: rgb(72, 63, 63);
+    font-size: 65px;
+    position: absolute;
+    top: 3950px;
+    right: 300px;
+    width: 2200px;
+}
+.text3 {
+    color: rgb(72, 63, 63);
+    font-size: 65px;
+    position: absolute;
+    top: 6150px;
+    left: 420px;
+    width: 2200px;
+}
+.cycle3 {
+    position: absolute;
+    top: 5200px;
+    right: 0px;
+}
+#img9 {
+    height: 2200px;
+    width: 2600px;
+}
+#img10 {
+    height: 1900px;
+    width: 3700px;
+}
+.cycle4 {
+    margin-top: 7500px;
+    margin-left: 850px;
+    margin-right: auto;
+}
+#contact {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 150px;
+    font-weight: 520;
+}
+#NFTS {
+    color: rgb(39, 33, 33);
+    font-size: 160px;
+    text-align: center;
+    font-weight: 700;
+    
+}
+#five {
+    color: rgb(39, 33, 33);
+    font-size: 160px;
+    text-align: center;
+    font-weight: 600;
+}
+.NFTS {
+    line-height: 60px;
+    margin-left: 600px;
+    width: 500px;
+    margin-right: 300px;
+}
+#two {
+    color: rgb(39, 33, 33);
+    font-size: 160px;
+    text-align: center;
+    font-weight: 600;
+}
+#USDT {
+    color: rgb(39, 33, 33);
+    font-size: 160px;
+    font-weight: 700;
+}
+.USDT {
+    line-height: 60px;
+    width: 700px;
+    margin-right: 190px;
+}
+#unbold {
+    color: rgb(39, 33, 33);
+    font-size: 60px;
+}
+#polygon {
+        color: rgb(39, 33, 33);
+        font-size: 160px;
+        font-weight: 700;
+}
+#blockchain {
+    color: rgb(39, 33, 33);
+    font-size: 100px;
+    text-align: center;
+    font-weight: 500;
+    padding-left: 75px;
+}
+.polygon {
+    line-height: 60px;
+    width: 700px;
+    margin-right: 190px;
+    margin-top: 60px;
+}
+#address {
+    color: rgb(39, 33, 33);
+    font-size: 90px;
+    font-weight: 500;
+    text-align: center;
+}
+#num {
+    color: rgb(39, 33, 33);
+    font-size: 160px;
+    font-weight: 700;
+    text-decoration: underline;
+}
+.address {
+    line-height: 60px;
+    width: 1050px;
+    margin-left: 250px;
+    margin-top: 75px;
+}
+.inline {
+    display: flex;
+}
+.pic {
+    position: relative;
+    display: inline-block;
+}
+.bg {
+    width: 5380px;
+}
+#wallet {
+    height: 200px;
+    width: 974px;
+    background-color: rgb(249, 176, 42);
+    border-radius: 50px;
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+    top: 43.3%;
+    right: 900px;
+}
+#buy {
+    height: 160px;
+    width: 970px;
+    background-color: rgb(75, 96, 254);
+    border-radius: 30px;
+    font-size: 80px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+    top: 57%;
+    left: 890px;
+}
+.gray {
+    height: 1300px;
+    width: 5380px;
+    background-color: rgb(92, 82, 82);
+}
+.gray {
+    position: relative;
+}
+.head1 {
+    position: absolute;
+    left: 500px;
+    flex: right;
+    background-color: rgb(92, 82, 82);
+}
+.head2 {
+    position: absolute;
+    left: 1700px;
+    flex: right;
+    background-color: rgb(92, 82, 82);
+}
+.capital {
+    font-size: 100px;
+    font-weight: 800;
+    letter-spacing: -8px;
+    color: white;
+    height: 100px;
+    background-color: rgb(92, 82, 82);
+}
+.normal {
+    font-size: 50px;
+    font-weight: 200;
+    color: white;
+    line-height: 80px;
+    background-color: rgb(92, 82, 82);
+}
+a {
+    color: orange;
+    background-color: rgb(92, 82, 82);
+}
+@media only screen and (max-width: 356px),(max-height: 581) {
+    .bertone {
+        display: inline-block;
+        margin: 20px;
+        width: 10px;
+        height: 20px;
+    }
+    .NCC {
+        display: inline-block;
+        max-width: 25px;
+        max-height: 20px;
+    }
+    
+    #img1 {
+        padding-left: 10px;
+        padding-top: -2px;
+        height: 12px;
+        width: 15px;
+        margin: 0px;
+    }
+    #img2 {
+        height: 12px;
+        width: 18px;
+        margin: 0px;
+    }
+    #img5,#img4,#img6 {
+        height: 5px;
+        width: 5px;
+    }
+    #img3 {
+        height: 5px;
+        width: 3px;
+    }
+    .insta {
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 25px;
+    }
+    .twitter {
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 35px;
+    }
+    .in {
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 45px;
+    }
+    .fb {
+        display: inline-block;
+        position: absolute;
+        top: 25px;
+        right: 55px;
+    }
+    #lib {
+        color: purple;
+        font-weight: bold;
+    }
+    .ontop {
+        position: relative;
+    }
+    .text {
+        color: rgb(72, 63, 63);
+        font-size: 11.2px;
+        position: absolute;
+        top: 100px;
+        left: 29px;
+    }
+    .cycle {
+        position: absolute;
+        right: 0px;
+        top: 50px;
+        float: left;
+    }
+    #img7 {
+        height: 130px;
+        width: 170px;
+    }
+    .cycle2 {
+        position: absolute;
+        left: 0px;
+        top: 220px;
+    }
+    #img8 {
+        height: 140px;
+        width: 170px;
+    }
+    .text2 {
+        color: rgb(72, 63, 63);
+        font-size: 4px;
+        position: absolute;
+        top: 280px;
+        left: 200px;
+        width: 220px;
+    }
+    .text3 {
+        color: rgb(72, 63, 63);
+        font-size: 4px;
+        position: absolute;
+        top: 440px;
+        left: 42px;
+        width: 220px;
+    }
+    .cycle3 {
+        position: absolute;
+        top: 370px;
+        right: 0px;
+    }
+    #img9 {
+        height: 150px;
+        width: 170px;
+    }
+    #img10 {
+        height: 120px;
+        width: 250px;
+    }
+    .cycle4 {
+        margin-top: 480px;
+        margin-left: 55px;
+        margin-right: auto;
+    }
+    #contact {
+        text-align: center;
+        color: rgb(0, 0, 0);
+        font-size: 11px;
+        font-weight: 750;
+    }
+    #NFTS {
+        color: rgb(39, 33, 33);
+        font-size: 11px;
+        text-align: center;
+        font-weight: 710;
+    }
+    #five {
+        color: rgb(39, 33, 33);
+        font-size: 11px;
+        text-align: center;
+        font-weight: 60;
+    }
+    .NFTS {
+        line-height: 6px;
+        margin-left: 40px;
+        width: 50px;
+        margin-right: 0px;
+    }
+    #two {
+        color: rgb(39, 33, 33);
+        font-size: 11px;
+        text-align: center;
+        font-weight: 60;
+    }
+    #USDT {
+        color: rgb(39, 33, 33);
+        font-size: 11px;
+        font-weight: 70;
+    }
+    .USDT {
+        line-height: 6px;
+        width: 50px;
+        margin-right: 0px;
+        text-align: center;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    #unbold {
+        color: rgb(39, 33, 33);
+        font-size: 5px;
+    }
+    #polygon {
+            color: rgb(39, 33, 33);
+            font-size: 11px;
+            font-weight: 710;
+    }
+    #blockchain {
+        color: rgb(39, 33, 33);
+        font-size: 7px;
+        text-align: center;
+        font-weight: 50;
+        padding-left: 7px;
+    }
+    .polygon {
+        line-height: 6px;
+        width: 70px;
+        margin-right: 0px;
+        margin-top: 6px;
+    }
+    #address {
+        color: rgb(39, 33, 33);
+        font-size: 6px;
+        font-weight: 50;
+        text-align: center;
+    }
+    #num {
+        color: rgb(39, 33, 33);
+        font-size: 11px;
+        font-weight: 170;
+        text-decoration: underline;
+        text-align: center;
+    }
+    .address {
+        line-height: 6px;
+        width: 100px;
+        margin-left: 0px;
+        margin-top: 7px;
+    }
+    .inline {
+        display: flex;
+    }
+    .pic {
+        position: relative;
+        display: inline-block;
+    }
+    .bg {
+        width: 356px;
+    }
+    #wallet {
+        height: 15px;
+        width: 66px;
+        background-color: rgb(249, 176, 42);
+        border-radius: 5px;
+        font-size: 6px;
+        font-weight: 70;
+        color: white;
+        position: absolute;
+        top: 41%;
+        right: 59.5px;
+    }
+    #buy {
+        height: 13px;
+        width: 67px;
+        background-color: rgb(75, 96, 254);
+        border-radius: 5px;
+        font-size: 6px;
+        font-weight: 70;
+        color: white;
+        position: absolute;
+        top: 53%;
+        left: 58px;
+    }
+    .gray {
+        height: 130px;
+        width: 356px;
+        background-color: rgb(92, 82, 82);
+    }
+    .gray {
+        position: relative;
+    }
+    .head1 {
+        position: absolute;
+        left: 50px;
+        flex: right;
+        background-color: rgb(92, 82, 82);
+    }
+    .head2 {
+        position: absolute;
+        left: 170px;
+        flex: right;
+        background-color: rgb(92, 82, 82);
+    }
+    .capital {
+        font-size: 10px;
+        font-weight: 80;
+        letter-spacing: -1px;
+        color: white;
+        height: 10px;
+        background-color: rgb(92, 82, 82);
+    }
+    .normal {
+        font-size: 5px;
+        font-weight: 20;
+        color: white;
+        line-height: 8px;
+        background-color: rgb(92, 82, 82);
+    }
+    a {
+        color: orange;
+        background-color: rgb(92, 82, 82);
+    }    
+}
